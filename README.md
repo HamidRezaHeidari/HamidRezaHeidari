@@ -43,8 +43,7 @@
 <h2 align="center">🔥🔥 Frameworks, Tools & Abilities 🔥🔥</h2>
 <br>
 <p align="center">
-  <a title="LinkedIn"><img width="25" src="images/sw.png">Solid Works</a>
-  <code><img title=" " height="25" src="images/ "></code>
+  <code><img title=" solid " height="25" src="images/sw.png ">solid</code>
   <code><img title=" " height="25" src="images/ "></code>
   <code><img title=" " height="25" src="images/ "></code>
   <code><img title=" " height="25" src="images/ "></code>
