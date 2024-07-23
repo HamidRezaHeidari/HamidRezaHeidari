@@ -44,7 +44,8 @@
 <br>
 <p align="center">
   <img title="Solid Works" height="35" src="images/sw.png ">
-  <img title=" " height="35" src="images/  ">
+  <img title="Automation Studio" height="35" src="images/AS.png  ">
+
 
 </p>
 <hr>
