@@ -43,8 +43,37 @@
 <h2 align="center">🔥🔥 Frameworks, Tools & Abilities 🔥🔥</h2>
 <br>
 <p align="center">
-  <img title="Solid Works" height="35" src="images/sw.png ">
-  <img title="Automation Studio" height="35" src="images/AS.png  ">
+  <img title="Solid Works" height="42" src="images/sw.png ">
+  <img title="TIA Portal" height="42" src="images/TIA.svg  ">
+  <img title="Automation Studio" height="42" src="images/AS.png  ">
+  <img title="Arduino" height="42" src="images/arduino.jpg   ">
+  <img title="Proteus" height="42" src="images/Proteus.png   ">
+  <img title="Matlab" height="42" src="images/matlab.svg   ">
+  <br />
+  <img title=" " height="42" src="images/   ">
+  <img title=" " height="42" src="images/   ">
+  <img title=" " height="42" src="images/   ">
+  <img title=" " height="42" src="images/   ">
+  <img title=" " height="42" src="images/   ">
+  <img title=" " height="42" src="images/   ">
+  <img title=" " height="42" src="images/   ">
+  <img title=" " height="42" src="images/   ">
+  <img title=" " height="42" src="images/   ">
+  <img title=" " height="42" src="images/   ">
+  <img title=" " height="42" src="images/   ">
+  <img title=" " height="42" src="images/   ">
+  <img title=" " height="42" src="images/   ">
+  <img title=" " height="42" src="images/   ">
+  <img title=" " height="42" src="images/   ">
+  <img title=" " height="42" src="images/   ">
+  <img title=" " height="42" src="images/   ">
+  <img title=" " height="42" src="images/   ">
+  <img title=" " height="42" src="images/   ">
+  <img title=" " height="42" src="images/   ">
+  <img title=" " height="42" src="images/   ">
+
+
+
 
 
 </p>
