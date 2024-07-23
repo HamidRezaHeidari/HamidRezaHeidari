@@ -9,7 +9,7 @@
 </h5>
 <br>
 <p align="center">
-  ✨ Hi, I'm Hmaid Reza Heidari, Mechatronic MSc Student | AI, Robotics and Industrial Engineer | Teacher
+  ✨ Hi, I'm Hamid Reza Heidari, Mechatronic MSc Student | AI, Robotics and Industrial Engineer | Teacher
   <br>
   <br>
   🎓 I'm Master's Student of Mechatronics Engineering at AmirKabir University of Technology (Tehran Polytechnic)
@@ -22,7 +22,7 @@
   <br>
   🔬 My favorite research topics are AGVs, Machin-Learning & Machine-Vision, Smart Factory and IOT
   <br>
-  🎮 I'm an old gamer and I love read hardware magazine in my free time
+  🎮 I'm an old gamer and I love read about computer hardware in my free time
   
 </p>
 
