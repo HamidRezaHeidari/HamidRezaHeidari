@@ -7,13 +7,13 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/hamid-reza-heidari-784457208/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"></a></code>
+  <code><a href="https://www.linkedin.com/in/hamid-reza-heidari-784457208/" title="LinkedIn Profile"><img width="22" src="images/linkedIn.png"></a></code>
   <code><a href="https://x.com/H_R_heidari" title="X Profile"><img width="30" src="images/x.svg"></a></code>
-  <code><a href="https://www.mathworks.com/matlabcentral/profile/authors/19084310?s_tid=gn_comm" title="MathWorks Profile"><img width="22" src="images/mathworks.svg"></a></code>
-  <code><a href="h.r.heidari@aut.ac.ir" title="Email Profile"><img width="22" src="images/email.svg"></a></code>
-  <code><a href="https://orcid.org/0009-0002-6127-5609" title="ORCID Profile"><img width="22" src="images/orcid.svg"></a></code>
-  <code><a href="https://stackoverflow.com/users/23412245/hamid-reza-heidari" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"></a></code>
-  <code><a href="https://t.me/H_R_HEIDARI" title="Telegram Profile"><img width="22" src="images/telegram.svg"></a></code>
+  <code><a href="https://www.mathworks.com/matlabcentral/profile/authors/19084310?s_tid=gn_comm" title="MathWorks Profile"><img width="22" src="images/mathworks.jpg"></a></code>
+  <code><a href="h.r.heidari@aut.ac.ir" title="Email Profile"><img width="22" src="images/email.png"></a></code>
+  <code><a href="https://orcid.org/0009-0002-6127-5609" title="ORCID Profile"><img width="22" src="images/orcid.png"></a></code>
+  <code><a href="https://stackoverflow.com/users/23412245/hamid-reza-heidari" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.png"></a></code>
+  <code><a href="https://t.me/H_R_HEIDARI" title="Telegram Profile"><img width="22" src="images/telegram.png"></a></code>
 
 </h5>
 <br>
