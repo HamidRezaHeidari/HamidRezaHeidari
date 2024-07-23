@@ -44,34 +44,30 @@
 <br>
 <p align="center">
   <img title="TIA Portal" height="42" src="images/TIA.svg  ">
+  <img title="Step 7" height="42" src="images/7.png ">
   <img title="Automation Studio" height="42" src="images/AS.png  ">
   <img title="Solid Works" height="42" src="images/sw.png ">
   <img title="Arduino" height="42" src="images/arduino.jpg   ">
   <img title="Proteus" height="42" src="images/Proteus.png   ">
   <img title="Matlab" height="42" src="images/matlab.svg   ">
+  <img title="Webots" height="42" src="images/webot.pmg   ">
   <br />
   <img title="VS code" height="42" src="images/VS.png   ">
   <img title="Colab" height="42" src="images/colab.png   ">
+  <img title="Jupyter" height="42" src="images/jupyter.png   ">
   <img title="Pycharm" height="42" src="images/jb.jpg   ">
   <br />
-  <img title=" " height="42" src="images/   ">
-  <img title=" " height="42" src="images/   ">
-  <img title=" " height="42" src="images/   ">
-  <img title=" " height="42" src="images/   ">
-  <img title=" " height="42" src="images/   ">
-  <img title=" " height="42" src="images/   ">
-  <img title=" " height="42" src="images/   ">
-  <img title=" " height="42" src="images/   ">
-  <img title=" " height="42" src="images/   ">
-  <img title=" " height="42" src="images/   ">
-  <img title=" " height="42" src="images/   ">
-  <img title=" " height="42" src="images/   ">
-  <img title=" " height="42" src="images/   ">
-  <img title=" " height="42" src="images/   ">
-  <img title=" " height="42" src="images/   ">
-  <img title=" " height="42" src="images/   ">
-  <img title=" " height="42" src="images/   ">
-  <img title=" " height="42" src="images/   ">
+  <img title="Python" height="42" src="images/python.svg   ">
+  <img title="C++" height="42" src="images/c.png   ">
+  <img title="html, css and js" height="42" src="images/3.png   ">
+  <br />
+  <img title="Numpy" height="42" src="images/np.png   ">
+  <img title="Matplotlib" height="42" src="images/mat.png   ">
+  <img title="Sklearn" height="42" src="images/sk.png   ">
+  <img title="PyTorch" height="42" src="images/PyTorch-logo.png   ">
+  <img title="git" height="42" src="images/git.png  ">
+  <br />
+
 
 
 
