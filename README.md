@@ -45,7 +45,7 @@
 <p align="center">
   <div class="content">
    <img height="25" src="images/sw.png">
-   <p>Description</p>
+   <h3><strong>TITLE</strong></h3>
   </div>
   <code><img title=" " height="25" src="images/ "></code>
   <code><img title=" " height="25" src="images/ "></code>
