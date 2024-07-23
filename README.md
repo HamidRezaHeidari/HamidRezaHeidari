@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Guys!+👋;This+is+Hamid+Reza+Heidari+😊;Nice+to+meet+you!+✨&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Guys!+👋;This+is+Hamid+Reza+Heidari+😊;Nice+to+meet+you!+✨&center=true&size=24">
   </a>
 </h1>
 
@@ -40,7 +40,7 @@
 
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥🔥 Frameworks, Tools & Abilities 🔥🔥</h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
