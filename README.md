@@ -7,13 +7,13 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/hamid-reza-heidari-784457208/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://x.com/H_R_heidari" title="X Profile"><img src="images/x.svg"></a></code>
-  <code><a href="https://www.mathworks.com/matlabcentral/profile/authors/19084310?s_tid=gn_comm" title="MathWorks Profile"><img width="22" src="images/mathworks.svg"> MathWorks </a></code>
-  <code><a href="h.r.heidari@aut.ac.ir" title="Email Profile"><img width="22" src="images/email.svg"> Email </a></code>
-  <code><a href="https://orcid.org/0009-0002-6127-5609" title="ORCID Profile"><img width="22" src="images/orcid.svg"> ORCID </a></code>
-  <code><a href="https://stackoverflow.com/users/23412245/hamid-reza-heidari" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://t.me/H_R_HEIDARI" title="Telegram Profile"><img width="22" src="images/telegram.svg"> Telegram </a></code>
+  <code><a href="https://www.linkedin.com/in/hamid-reza-heidari-784457208/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"></a></code>
+  <code><a href="https://x.com/H_R_heidari" title="X Profile"><img width="30" src="images/x.svg"></a></code>
+  <code><a href="https://www.mathworks.com/matlabcentral/profile/authors/19084310?s_tid=gn_comm" title="MathWorks Profile"><img width="22" src="images/mathworks.svg"></a></code>
+  <code><a href="h.r.heidari@aut.ac.ir" title="Email Profile"><img width="22" src="images/email.svg"></a></code>
+  <code><a href="https://orcid.org/0009-0002-6127-5609" title="ORCID Profile"><img width="22" src="images/orcid.svg"></a></code>
+  <code><a href="https://stackoverflow.com/users/23412245/hamid-reza-heidari" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"></a></code>
+  <code><a href="https://t.me/H_R_HEIDARI" title="Telegram Profile"><img width="22" src="images/telegram.svg"></a></code>
 
 </h5>
 <br>
