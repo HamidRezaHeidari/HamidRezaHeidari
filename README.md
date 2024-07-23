@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Guys!+👋;This+is+Hamid+Reza+Heidari+😊;Nice+to+meet+you!+✨&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Guys!+👋;This+is+Hamid+Reza+Heidari+😊;Nice+to+meet+you!+✨&center=true&size=30">
   </a>
 </h1>
 
@@ -30,14 +30,17 @@
 </p>
 
 
+
+
+
 <h5 align="center">
-  <a href="https://www.linkedin.com/in/hamid-reza-heidari-784457208/" title="LinkedIn"><img width="30" src="images/linkedIn.png"></a>
-  <a href="https://x.com/H_R_heidari" title="X"><img width="30" src="images/x.svg"></a>
-  <a href="https://t.me/H_R_HEIDARI" title="Telegram"><img width="30" src="images/telegram.png"></a>
-  <a href="h.r.heidari@aut.ac.ir" title="E-mail"><img width="30" src="images/email.png"></a>
-  <a href="https://www.mathworks.com/matlabcentral/profile/authors/19084310?s_tid=gn_comm" title="MathWorks"><img width="30" src="images/mathworks.jpg"></a>
-  <a href="https://orcid.org/0009-0002-6127-5609" title="ORCID"><img width="30" src="images/orcid.png"></a>
-  <a href="https://stackoverflow.com/users/23412245/hamid-reza-heidari" title="Stack Overflow"><img width="30" src="images/stackoverflow.png"></a>
+  <a href="https://www.linkedin.com/in/hamid-reza-heidari-784457208/" title="LinkedIn"><img width="35" src="images/linkedIn.png"></a>
+  <a href="https://x.com/H_R_heidari" title="X"><img width="35" src="images/x.svg"></a>
+  <a href="https://t.me/H_R_HEIDARI" title="Telegram"><img width="35" src="images/telegram.png"></a>
+  <a href="h.r.heidari@aut.ac.ir" title="E-mail"><img width="35" src="images/email.png"></a>
+  <a href="https://www.mathworks.com/matlabcentral/profile/authors/19084310?s_tid=gn_comm" title="MathWorks"><img width="35" src="images/mathworks.jpg"></a>
+  <a href="https://orcid.org/0009-0002-6127-5609" title="ORCID"><img width="35" src="images/orcid.png"></a>
+  <a href="https://stackoverflow.com/users/23412245/hamid-reza-heidari" title="Stack Overflow"><img width="35" src="images/stackoverflow.png"></a>
 
 
 <hr>
@@ -98,3 +101,9 @@
 </p>
 
 <hr>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
