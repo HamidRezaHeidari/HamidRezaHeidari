@@ -43,25 +43,8 @@
 <h2 align="center">🔥🔥 Frameworks, Tools & Abilities 🔥🔥</h2>
 <br>
 <p align="center">
-  <img title="Solid Works" height="25" src="images/sw.png ">
-  <code><img title=" " height="25" src="images/np.pmg ">np</code>
-  <code><img title=" " height="25" src="images/ "></code>
-  <code><img title=" " height="25" src="images/ "></code>
-  <code><img title=" " height="25" src="images/ "></code>
-  <code><img title=" " height="25" src="images/ "></code>
-  <code><img title=" " height="25" src="images/ "></code>
-  <code><img title=" " height="25" src="images/ "></code>
-  <code><img title=" " height="25" src="images/ "></code>
-  <code><img title=" " height="25" src="images/ "></code>
-  <code><img title=" " height="25" src="images/ "></code>
-  <code><img title=" " height="25" src="images/ "></code>
-  <code><img title=" " height="25" src="images/ "></code>
-  <code><img title=" " height="25" src="images/ "></code>
-  <code><img title=" " height="25" src="images/ "></code>
-  <code><img title=" " height="25" src="images/ "></code>
-  <code><img title=" " height="25" src="images/ "></code>
-  <code><img title=" " height="25" src="images/ "></code>
-  <code><img title=" " height="25" src="images/ "></code>
+  <img title="Solid Works" height="35" src="images/sw.png ">
+  <img title=" " height="35" src="images/  ">
 
 </p>
 <hr>
