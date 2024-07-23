@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/hamid-reza-heidari-784457208/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://x.com/H_R_heidari" title="X Profile"><img width="22" src="images/x.svg"> X </a></code>
+  <code><a href="https://x.com/H_R_heidari" title="X Profile"><img width="22" src="images/x.svg"></a></code>
   <code><a href="https://www.mathworks.com/matlabcentral/profile/authors/19084310?s_tid=gn_comm" title="MathWorks Profile"><img width="22" src="images/mathworks.svg"> MathWorks </a></code>
   <code><a href="h.r.heidari@aut.ac.ir" title="Email Profile"><img width="22" src="images/email.svg"> Email </a></code>
   <code><a href="https://orcid.org/0009-0002-6127-5609" title="ORCID Profile"><img width="22" src="images/orcid.svg"> ORCID </a></code>
