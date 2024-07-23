@@ -43,7 +43,10 @@
 <h2 align="center">🔥🔥 Frameworks, Tools & Abilities 🔥🔥</h2>
 <br>
 <p align="center">
-  <code><img title=" solid " height="25" src="images/sw.png ">solid</code>
+  <div class="content">
+   <img src="images/sw.png">
+   <p>Description</p>
+  </div>
   <code><img title=" " height="25" src="images/ "></code>
   <code><img title=" " height="25" src="images/ "></code>
   <code><img title=" " height="25" src="images/ "></code>
