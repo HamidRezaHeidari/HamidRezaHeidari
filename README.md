@@ -9,26 +9,22 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Hmaid Reza Heidari, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Hmaid Reza Heidari, Mechatronic MSc Student | AI, Robotics and Industrial Engineer | Teacher
   <br>
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  🎓 I'm Master's Student of Mechatronics Engineering at AmirKabir University of Technology (Tehran Polytechnic), Department of Electrical Engineering
   <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
+  🤖 also I'm Manager of Mobile Robotic Laboratory at AUT
   <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
+  👨‍🏫 I'm part-time ElectroTechnic Teacher
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  💻 I love writing code and deal with Machines
   <br>
-  💻 I love writing code and learn anythings about it
+  🔬 My favorite research topics are AGVs, Machin-Learning & Machine-Vision, Smart Factory and IOT
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  🎮 I'm an old gamer and I love read hardware magazine in my free time
+  
 </p>
-
 
 
 
@@ -37,7 +33,7 @@
   <a href="https://www.linkedin.com/in/hamid-reza-heidari-784457208/" title="LinkedIn"><img width="35" src="images/linkedIn.png"></a>
   <a href="https://x.com/H_R_heidari" title="X"><img width="35" src="images/x.svg"></a>
   <a href="https://t.me/H_R_HEIDARI" title="Telegram"><img width="35" src="images/telegram.png"></a>
-  <a href="h.r.heidari@aut.ac.ir" title="E-mail"><img width="35" src="images/email.png"></a>
+  <a href="mailto:hr.heidari@aut.ac.ir" title="E-mail"><img width="35" src="images/email.png"></a>
   <a href="https://www.mathworks.com/matlabcentral/profile/authors/19084310?s_tid=gn_comm" title="MathWorks"><img width="35" src="images/mathworks.jpg"></a>
   <a href="https://orcid.org/0009-0002-6127-5609" title="ORCID"><img width="35" src="images/orcid.png"></a>
   <a href="https://stackoverflow.com/users/23412245/hamid-reza-heidari" title="Stack Overflow"><img width="35" src="images/stackoverflow.png"></a>
