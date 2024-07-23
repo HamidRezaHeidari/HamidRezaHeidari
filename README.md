@@ -44,7 +44,7 @@
 <br>
 <p align="center">
   <div class="content">
-   <img src="images/sw.png">
+   <img height="25" src="images/sw.png">
    <p>Description</p>
   </div>
   <code><img title=" " height="25" src="images/ "></code>
