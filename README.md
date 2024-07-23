@@ -9,10 +9,10 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Hmaid Reza Heidari, Mechatronic MSc Student | AI, Robotics and Industrial Engineer | Teacher
+  ✨ Hi, I'm Hmaid Reza Heidari, Mechatronic MSc Student | AI, Robotics and Industrial Engineer | Teacher
   <br>
   <br>
-  🎓 I'm Master's Student of Mechatronics Engineering at AmirKabir University of Technology (Tehran Polytechnic), Department of Electrical Engineering
+  🎓 I'm Master's Student of Mechatronics Engineering at AmirKabir University of Technology (Tehran Polytechnic)
   <br>
   🤖 also I'm Manager of Mobile Robotic Laboratory at AUT
   <br>
