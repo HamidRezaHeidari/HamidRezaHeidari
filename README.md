@@ -43,7 +43,7 @@
 <h2 align="center">🔥🔥 Frameworks, Tools & Abilities 🔥🔥</h2>
 <br>
 <p align="center">
-  <code><img title=" w" height="25" src="images/sw.png ">solid</code>
+  <code><img title="Solid Works" height="25" src="images/sw.png "></code>
   <code><img title=" " height="25" src="images/np.pmg ">np</code>
   <code><img title=" " height="25" src="images/ "></code>
   <code><img title=" " height="25" src="images/ "></code>
