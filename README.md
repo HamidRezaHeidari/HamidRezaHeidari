@@ -50,7 +50,7 @@
   <img title="Arduino" height="42" src="images/arduino.jpg   ">
   <img title="Proteus" height="42" src="images/Proteus.png   ">
   <img title="Matlab" height="42" src="images/matlab.svg   ">
-  <img title="Webots" height="42" src="images/webot.pmg   ">
+  <img title="Webots" height="42" src="images/webot.png   ">
   <br />
   <img title="VS code" height="42" src="images/VS.png   ">
   <img title="Colab" height="42" src="images/colab.png   ">
@@ -64,7 +64,7 @@
   <img title="Numpy" height="42" src="images/np.png   ">
   <img title="Matplotlib" height="42" src="images/mat.png   ">
   <img title="Sklearn" height="42" src="images/sk.png   ">
-  <img title="PyTorch" height="42" src="images/PyTorch-logo.png   ">
+  <img title="PyTorch" height="42" src="images/PyTorch-logo.svg   ">
   <img title="git" height="42" src="images/git.png  ">
   <br />
 
