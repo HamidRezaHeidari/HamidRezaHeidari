@@ -64,7 +64,7 @@
   <img title="Numpy" height="42" src="images/np.png   ">
   <img title="Matplotlib" height="42" src="images/mat.png   ">
   <img title="Sklearn" height="42" src="images/sk.png   ">
-  <img title="PyTorch" height="42" src="images/PyTorch-logo.svg   ">
+  <img title="PyTorch" height="42" src="images/PyTorch-logo.webp   ">
   <img title="git" height="42" src="images/git.png  ">
   <br />
 
