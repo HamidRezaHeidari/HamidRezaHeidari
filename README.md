@@ -2,23 +2,14 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Guys!+👋;This+is+Hamid+Reza+Heidari+😊;Nice+to+meet+you!+✨&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Guys!+👋;This+is+Hamid+Reza+Heidari+😊;Nice+to+meet+you!+✨&center=true&size=45">
   </a>
 </h1>
-
-<h5 align="center">
-  <a href="https://www.linkedin.com/in/hamid-reza-heidari-784457208/" title="LinkedIn Profile"><img width="65" src="images/linkedIn.png"></a>
-  <code><a href="https://x.com/H_R_heidari" title="X Profile"><img width="65" src="images/x.svg"></a></code>
-  <code><a href="https://www.mathworks.com/matlabcentral/profile/authors/19084310?s_tid=gn_comm" title="MathWorks Profile"><img width="65" src="images/mathworks.jpg"></a></code>
-  <code><a href="h.r.heidari@aut.ac.ir" title="Email Profile"><img width="65" src="images/email.png"></a></code>
-  <code><a href="https://orcid.org/0009-0002-6127-5609" title="ORCID Profile"><img width="65" src="images/orcid.png"></a></code>
-  <code><a href="https://stackoverflow.com/users/23412245/hamid-reza-heidari" title="Stack Overflow Profile"><img width="65" src="images/stackoverflow.png"></a></code>
-  <code><a href="https://t.me/H_R_HEIDARI" title="Telegram Profile"><img width="65" src="images/telegram.png"></a></code>
 
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Hmaid Reza Heidari, Research Assistant & Computer Engineer & Software Developer from Turkey
   <br>
   <br>
   🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
@@ -37,6 +28,17 @@
   <br>
   📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 </p>
+
+
+<h5 align="center">
+  <a href="https://www.linkedin.com/in/hamid-reza-heidari-784457208/" title="LinkedIn"><img width="45" src="images/linkedIn.png"></a>
+  <a href="https://x.com/H_R_heidari" title="X"><img width="45" src="images/x.svg"></a>
+  <a href="https://t.me/H_R_HEIDARI" title="Telegram"><img width="45" src="images/telegram.png"></a>
+  <a href="h.r.heidari@aut.ac.ir" title="E-mail"><img width="45" src="images/email.png"></a>
+  <a href="https://www.mathworks.com/matlabcentral/profile/authors/19084310?s_tid=gn_comm" title="MathWorks"><img width="45" src="images/mathworks.jpg"></a>
+  <a href="https://orcid.org/0009-0002-6127-5609" title="ORCID"><img width="45" src="images/orcid.png"></a>
+  <a href="https://stackoverflow.com/users/23412245/hamid-reza-heidari" title="Stack Overflow"><img width="45" src="images/stackoverflow.png"></a>
+
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
