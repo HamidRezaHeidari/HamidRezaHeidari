@@ -20,7 +20,7 @@
   <br>
   💻 I love writing code and deal with Machines
   <br>
-  🔬 My favorite research topics are AGVs, Machin-Learning & Machine-Vision, Smart Factory and IOT
+  🔬 My favorite research topics are AGVs, Machin-Learning & Machin-Vision, Smart Factory and IOT
   <br>
   🎮 I'm an old gamer and I love read about computer hardware in my free time
   
