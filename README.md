@@ -31,7 +31,7 @@
 
 <h5 align="center">
   <a href="https://www.linkedin.com/in/hamid-reza-heidari-784457208/" title="LinkedIn"><img width="35" src="images/linkedIn.png"></a>
-  <a href="https://x.com/H_R_heidari" title="X"><img width="35" src="images/x.svg"></a>
+  <a href="https://x.com/H_R_Heidari" title="X"><img width="35" src="images/x.svg"></a>
   <a href="https://t.me/H_R_HEIDARI" title="Telegram"><img width="35" src="images/telegram.png"></a>
   <a href="mailto:hr.heidari@aut.ac.ir" title="E-mail"><img width="35" src="images/email.png"></a>
   <a href="https://www.mathworks.com/matlabcentral/profile/authors/19084310?s_tid=gn_comm" title="MathWorks"><img width="35" src="images/mathworks.jpg"></a>
