@@ -99,5 +99,5 @@
 
 <hr>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamidrezaheidari&hide_border=true" alt="hamidrezaheidari" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  height=200 src="https://github-profile-trophy.vercel.app/?username=hamidrezaheidari" alt="hamidrezaheidari" /></a> </p>
 
