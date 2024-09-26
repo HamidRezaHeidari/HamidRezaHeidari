@@ -81,10 +81,10 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=HamidRezaHeidari&theme=react&border=62dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=HamidRezaHeidari&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=HamidRezaHeidari&show_icons=true&theme=react&border_color=62dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=HamidRezaHeidari&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
@@ -99,5 +99,5 @@
 
 <hr>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamidrezaheidari" alt="hamidrezaheidarii" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamidrezaheidari" alt="hamidrezaheidari" /></a> </p>
 
