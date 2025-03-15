@@ -1,4 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HamidRezaHeidari">
+<br>
+<img align="right" src="https://www.ldoceonline.com/">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -25,10 +27,8 @@
   🎮 I'm an old gamer and I love read about computer hardware in my free time
   
 
- <a href="https://www.linkedin.com/in/hamid-reza-heidari-784457208/" title="My Resume"></a>
  </p>
 
-<br>
 
 
 <h5 align="center">
