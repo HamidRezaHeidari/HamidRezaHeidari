@@ -26,7 +26,7 @@
   
 </p>
 
- <a href="https://www.linkedin.com/in/hamid-reza-heidari-784457208/" title="My Resume"><img width="35" ></a>
+ <a href="https://www.linkedin.com/in/hamid-reza-heidari-784457208/" title="My Resume"></a>
 
 
 <h5 align="center">
