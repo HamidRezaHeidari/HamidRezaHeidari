@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HamidRezaHeidari">
 <br>
-<img align="right" src="https://www.ldoceonline.com/">
+<[Link to Portfolio Website](https://gaganpreetkaurkalsi.netlify.app/)>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
