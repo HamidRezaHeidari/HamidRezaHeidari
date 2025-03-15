@@ -24,9 +24,11 @@
   <br>
   🎮 I'm an old gamer and I love read about computer hardware in my free time
   
-</p>
 
  <a href="https://www.linkedin.com/in/hamid-reza-heidari-784457208/" title="My Resume"></a>
+ </p>
+
+<br>
 
 
 <h5 align="center">
