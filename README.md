@@ -22,8 +22,6 @@
   💻 I love writing code and deal with Machines
   <br>
   🔬 My favorite research topics are Robotics & AGVs, Machine-Learning & Industry 4.0
-  <br>
-  🎮 I'm an old gamer and I love read about computer hardware in my free time
   
 
  </p>
