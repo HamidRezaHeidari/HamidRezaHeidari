@@ -10,14 +10,14 @@
 </h5>
 <br>
 <p align="center">
-  ✨ Hi, I'm Hamid Reza Heidari, Mechatronic MSc Student | Robotics and Automation Engineer | Teacher
+  ✨ Hi, I'm Hamid Reza Heidari, MSc of Mechatronic Engineering | AI and Robotics Engineer | Teacher
   <br>
   <br>
   🎓 I'm Master's Student of Mechatronics Engineering at AmirKabir University of Technology (Tehran Polytechnic)
   <br>
   🤖 also I'm Manager of Mobile Robotic Laboratory at AUT
   <br>
-  👨‍🏫 I'm part-time ElectroTechnic Teacher
+  👨‍🏫 I'm part-time Computer and Network Teacher
   <br>
   💻 I love writing code and deal with Machines
   <br>
