@@ -33,9 +33,8 @@
   <a href="https://x.com/H_R_Heidari" title="X"><img width="35" src="images/x.svg"></a>
   <a href="https://t.me/H_R_HEIDARI" title="Telegram"><img width="35" src="images/telegram.png"></a>
   <a href="mailto:hamidrezaheidari.mail@gmail.com" title="E-mail"><img width="35" src="images/email.png"></a>
-  <a href="https://www.mathworks.com/matlabcentral/profile/authors/19084310?s_tid=gn_comm" title="MathWorks"><img width="35" src="images/mathworks.jpg"></a>
   <a href="https://orcid.org/0009-0002-6127-5609" title="ORCID"><img width="35" src="images/orcid.png"></a>
-  <a href="https://stackoverflow.com/users/23412245/hamid-reza-heidari" title="Stack Overflow"><img width="35" src="images/stackoverflow.png"></a>
+
 
 
 <hr>
